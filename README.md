@@ -1,5 +1,7 @@
 # OpenAstroMount
 
+![OAM](https://i.imgur.com/PZhilXn.jpeg)
+
 This is a Prototype! At this point it is not recommended to build the OAM if you dont want to actively participate in the development. 
 
 
