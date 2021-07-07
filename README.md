@@ -9,6 +9,7 @@ This is a Prototype! At this point it is not recommended to build the OAM if you
 ### ToDo
 - AZ fine adjustment
 - ALT fine adjustment
+- RA Ring not printable on small printers
 - ~~RA/DEC gearboxes~~
 - cable managment
 - Place for MKS
