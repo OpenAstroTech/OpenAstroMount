@@ -9,7 +9,6 @@ This is a Prototype! At this point it is not recommended to build the OAM if you
 ### ToDo
 - AZ fine adjustment
 - ALT fine adjustment
-- RA Ring not printable on small printers
 - ~~RA/DEC gearboxes~~
 - cable managment
 - Place for MKS
@@ -18,11 +17,15 @@ This is a Prototype! At this point it is not recommended to build the OAM if you
 
 ---
 ### Fix
-- resize some holes
+- ~~resize some holes~~
 - Base still too wobbly
+- RA Ring not printable on small printers
+---
+### Links
+- [Printed parts list](https://docs.google.com/spreadsheets/d/1Y-b5y6xR6_xKHy6ZGzY7_cjVsc-U0AEJJASNaPWRuvU/edit?usp=sharing)
 
 ---
-Changelog:
+### Changelog:
 
 27.06.2021:  v0.1
  - initial CAD upload
