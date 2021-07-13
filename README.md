@@ -22,6 +22,7 @@ This is a Prototype! At this point it is not recommended to build the OAM if you
 - RA Ring not printable on small printers
 ---
 ### Links
+- [Shopping List](https://docs.google.com/spreadsheets/d/11bVmNJqMsgxGibqhDkgMZYvdXtIfOjpVwsbMoQk8eRM/edit?usp=sharing)
 - [Printed parts list](https://docs.google.com/spreadsheets/d/1Y-b5y6xR6_xKHy6ZGzY7_cjVsc-U0AEJJASNaPWRuvU/edit?usp=sharing)
 
 ---
