@@ -28,8 +28,7 @@ This is a Prototype! At this point it is not recommended to build the OAM if you
 ---
 ### Changelog:
 
-27.06.2021:  v0.1
- - initial CAD upload
+see [changelog](https://github.com/OpenAstroTech/OpenAstroMount/blob/master/changelog.md)
 
 ---
 
