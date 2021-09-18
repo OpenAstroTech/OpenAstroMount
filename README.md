@@ -8,18 +8,19 @@ This is a Prototype! At this point it is not recommended to build the OAM if you
 ---
 ### ToDo
 - AZ fine adjustment
-- ALT fine adjustment
+- ~~ALT fine adjustment~~
 - ~~RA/DEC gearboxes~~
 - cable managment
-- Place for MKS
+- ~~Place for MKS~~
 - Full BOM
 - Guides
 
 ---
 ### Fix
 - ~~resize some holes~~
-- Base still too wobbly
+- ~~Base still too wobbly~~
 - RA Ring not printable on small printers
+- Some screws are very hard to reach
 ---
 ### Links
 - [Shopping List](https://docs.google.com/spreadsheets/d/11bVmNJqMsgxGibqhDkgMZYvdXtIfOjpVwsbMoQk8eRM/edit?usp=sharing)
