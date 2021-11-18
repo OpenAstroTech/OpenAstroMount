@@ -1,3 +1,7 @@
+**18.11.2021**
+- OAM v0.9 CAD upload
+- deleted all STL's for reupload
+
 **18.09.2021**
 - updated Top_plate_1 and CW_2020_attachment_1 (now CW_2020_attachment) for more convenient CW bar attachment. Also added a handle for carrying to CW_2020_attachment.
 - removed CW_2020_attachment_2 for redundancy 
