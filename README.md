@@ -12,14 +12,15 @@ Placeholder
 - ~~RA/DEC gearboxes~~
 - ~~cable managment~~
 - ~~Place for MKS~~
-- Full BOM
+- ~~Full BOM~~
 - Guides
+- Drill jigs
 
 ---
 ### Fix
 - ~~resize some holes~~
 - ~~Base still too wobbly~~
-- RA Ring not printable on small printers
+- ~~RA Ring not printable on small printers~~
 - ~~Some screws are very hard to reach~~
 ---
 ### Links

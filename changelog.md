@@ -1,3 +1,17 @@
+**29.11.2021**
+- v1.0 release
+- nicer printed parts list
+- added split RA Ring for smaller printer. 
+- added MKS enclosure
+- reworked entire base
+- reworked DEC wheel
+- reworked gearboxes
+- change to 9mm belts for RA and DEC
+- changed tripod adaption to a 2060 extrusion
+- change to dual slot 4040 for DEC
+- enforce blind joints for DEC and tripod adaption. Other blind joints are still optional
+- various small things here and there
+
 **18.11.2021**
 - OAM v0.9 CAD upload
 - deleted all STL's for reupload
