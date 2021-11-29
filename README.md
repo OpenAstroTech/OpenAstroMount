@@ -1,6 +1,6 @@
 # OpenAstroMount
 
-![OAM](https://i.imgur.com/PZhilXn.jpeg)
+![OAM](https://i.imgur.com/PH2Suil.jpeg)
 
 Placeholder
 
