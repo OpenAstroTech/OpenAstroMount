@@ -2,7 +2,16 @@
 
 ![OAM](https://i.imgur.com/PH2Suil.jpeg)
 
-Placeholder
+v1.0 released now! 
+
+The OpenAstroMount is a mount meant for larger telescopes that the OpenAstroTracker can't handle. It's fairly heavy and bulky, but can pack quite some payload. It features build in autoPA through motorized ALT and AZ axis. Both RA and DEC are driven entirely by belts, resulting in a extremely low backlash system. On both axis there is a two-stage belted gearbox with a reduction of 9:1 which in combination with the large RA and DEC wheels gives a total reduction of 316:1 and 234:1 for RA and DEC respectively. 
+
+Specs:
+
+| Weight                             | Cost      | Payload | Performance (PHD2) |
+|------------------------------------|-----------|---------|-------------|
+| 12kg + tripod <br>& counterweights | ~300-500$ | 5+ kg   | 0.5-0.7" RMS    |
+
 
 
 ---
