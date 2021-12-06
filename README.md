@@ -10,7 +10,7 @@ Specs:
 
 | Weight                             | Cost      | Payload | Performance (PHD2) |
 |------------------------------------|-----------|---------|-------------|
-| 12kg + tripod <br>& counterweights | ~300-500$ | 5+ kg   | 0.5-0.7" RMS    |
+| 12kg + tripod <br>& counterweights | ~300-500$ | 5+ kg*   | 0.5-0.7" RMS    |
 
 `* since my heaviest gear weighs only about 4kg, i havent tested the mount with more payload, hence the official payload recommendation remains 5kg. This will likely increase one the mount has been tested with more payload. ` 
 
