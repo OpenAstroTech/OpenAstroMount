@@ -4,7 +4,7 @@
 
 v1.0 released now! 
 
-The OpenAstroMount is a mount meant for larger telescopes that the OpenAstroTracker can't handle. It's fairly heavy and bulky, but can pack quite some payload. It features build in autoPA through motorized ALT and AZ axis. Both RA and DEC are driven entirely by belts, resulting in a extremely low backlash system. On both axis there is a two-stage belted gearbox with a reduction of 9:1 which in combination with the large RA and DEC wheels gives a total reduction of 316:1 and 234:1 for RA and DEC respectively. 
+The OpenAstroMount is a mount meant for larger telescopes that the OpenAstroTracker can't handle. It's fairly heavy and bulky, but can pack quite some payload. It features build in autoPA through motorized ALT and AZ axis. Both RA and DEC are driven entirely by belts, resulting in extremely low backlash. On both axis there is a two-stage belted gearbox with a reduction of 9:1 which, in combination with the large RA and DEC wheels, gives a total reduction of 316:1 and 234:1 for RA and DEC respectively. 
 
 Specs:
 
