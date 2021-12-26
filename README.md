@@ -1,6 +1,6 @@
 # OpenAstroMount
 
-![OAM](https://i.imgur.com/PH2Suil.jpeg)
+![OAM](https://i.imgur.com/1LZaNa9.jpeg)
 
 v1.0 released now! 
 
@@ -12,7 +12,7 @@ Specs:
 |------------------------------------|-----------|---------|-------------|
 | 12kg + tripod <br>& counterweights | ~300-500$ | 5+ kg*   | 0.5-0.7" RMS    |
 
-`* since my heaviest gear weighs only about 4kg, i havent tested the mount with more payload, hence the official payload recommendation remains 5kg. This will likely increase once the mount has been tested with more payload. ` 
+`* since my heaviest gear weighs only about 4kg, i haven't tested the mount with more payload, hence the official payload recommendation remains 5kg. This will likely increase once the mount has been tested with more payload. ` 
 
 ---
 ### ToDo
