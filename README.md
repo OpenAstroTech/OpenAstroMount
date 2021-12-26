@@ -33,6 +33,7 @@ Specs:
 - ~~Some screws are very hard to reach~~
 ---
 ### Links
+- [Guides](https://wiki.openastrotech.com/en/OpenAstroMount)
 - [Shopping List](https://docs.google.com/spreadsheets/d/11bVmNJqMsgxGibqhDkgMZYvdXtIfOjpVwsbMoQk8eRM/edit?usp=sharing)
 - [Printed parts list](https://docs.google.com/spreadsheets/d/1Y-b5y6xR6_xKHy6ZGzY7_cjVsc-U0AEJJASNaPWRuvU/edit?usp=sharing)
 
