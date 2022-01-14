@@ -27,6 +27,7 @@ Specs:
 
 ---
 ### Fix
+- Misumi style extrusions do not fit parts
 - ~~resize some holes~~
 - ~~Base still too wobbly~~
 - ~~RA Ring not printable on small printers~~
